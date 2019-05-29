@@ -1,2 +1,2 @@
 # javascript
-this repor is used to practice my javascript
+I am learning how to create a calculator
